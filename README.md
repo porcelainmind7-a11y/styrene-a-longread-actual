@@ -9,7 +9,7 @@
 
 ## Скриншот
 
-![Первый экран сайта](images/screenshot.png)
+![Первый экран сайта Styrene A](images/screenshot.png)
 
 ## Автор
 
